@@ -1,2 +1,2 @@
 # FriendFinder
-Full-stack application find your best friend.
+Full-stack application to find your best friend.
